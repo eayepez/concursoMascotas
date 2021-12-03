@@ -9,7 +9,7 @@ import java.util.Objects;
 
 /**
  *
- * @author paula
+ * @author edu
  */
 public class Pet {
     private String name;

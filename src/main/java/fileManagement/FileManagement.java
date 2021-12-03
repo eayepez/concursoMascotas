@@ -27,7 +27,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author paula
+ * @author edu
  */
 public class FileManagement {
     
